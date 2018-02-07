@@ -1,1 +1,1 @@
-Read me file to mycheck project..testing..git test ..test branch merge
+hello jenkins   Read me file to mycheck project..testing..git test ..test branch merge
